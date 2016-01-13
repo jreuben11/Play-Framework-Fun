@@ -1,0 +1,15 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+LICENSE
+README
+activator
+activator-launch-1.3.5.jar
+activator.bat
+/project/project
+/project/target
